@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on "predicting weekly retail sales given different factors"
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on ML project
 - 🤔 I’m looking for help with DSA and ML
