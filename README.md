@@ -9,5 +9,5 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: rtk
-- ⚡ Fun fact: i can Act too
+- ⚡ Fun fact: i can <b>Act,edit</b> too
 
