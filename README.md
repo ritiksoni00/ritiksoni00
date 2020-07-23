@@ -9,5 +9,5 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: rtk
-- ⚡ Fun fact: i can <b>Act,edit</b> too
+- ⚡ Fun fact: i can <b>Act as Nawaz, Video Edit </b> too
 
