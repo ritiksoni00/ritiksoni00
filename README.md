@@ -2,12 +2,12 @@
 
 <body style = "background: url(https://drive.google.com/file/d/1Ds2KcLNINuGAkb1g4JZWgJaBNJMZDB64/view?usp=sharing) ; background-size : 100% 100% ;">
 
-- 🔭 I’m currently working on "predicting weekly retail sales given different factors" Project
+- 🔭 I’m currently working on WEB DEV And ML skills
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on ML project
 - 🤔 I’m looking for help with DSA and ML
-- 💬 Ask me about Anything
-- 📫 How to reach me: ...
+- 💬 I don't have anything to tell you!
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ritik-soni/">Linkedin</a>
 - 😄 Pronouns: rtk
 - ⚡ Fun fact: i can <b>Act as Nawaz, Video Edit </b> too
 
