@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<body style = "background: url(https://drive.google.com/file/d/1Ds2KcLNINuGAkb1g4JZWgJaBNJMZDB64/view?usp=sharing) ; background-size : 100% 100% ;">
+### Hey, Thanks To be here.. Hope You will find something helpful in my Repos
 
 - 🔭 I’m currently working on WEB DEV And ML skills
 - 🌱 I’m currently learning ML
