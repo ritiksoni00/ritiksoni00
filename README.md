@@ -1,7 +1,6 @@
 ### Hey, Thanks To be here.. Hope You will find something helpful in my Repos
 
-- 🔭 I’m currently working on WEB DEV And ML skills
-- 🌱 I’m currently learning ML
+- 🔭 🌱 I’m currently working and learning on my WEB DEV and ML skills
 - 👯 I’m looking to collaborate on ML project
 - 🤔 I’m looking for help with DSA and ML
 - 💬 I don't have anything to tell you!
