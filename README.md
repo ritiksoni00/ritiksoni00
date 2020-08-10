@@ -3,7 +3,7 @@
 - 🔭 🌱 I’m currently working and learning on my WEB DEV and ML skills
 - 👯 I’m looking to collaborate on ML project
 - 🤔 I’m looking for help with DSA and ML
-- 💬 I don't have anything to tell you!
+- 💬 I don't have anything to tell you! Till now nothing Achived(simple word)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ritik-soni/">My Linkedin</a>
 - ⚡ Fun fact: i can <b>Act as Nawazuddin Siddiqui</b> too
 <div align="center">
