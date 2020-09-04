@@ -5,7 +5,7 @@
 - 🤔 I’m looking for guidance for Data structure & Algorithm And Machine learning
 - 💬 I don't have anything to tell you! Till now nothing Achived(simple word)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ritik-soni/">My Linkedin</a>
-- ⚡ Fun fact: Sometime They(Indian) think that i'm A Auto_wala, Sabji_wala, Because of my Looks! GG
+- ⚡ Fun fact: Sometime They(Indian) think that i'm a Auto_wala, Sabji_wala, Because of my Looks! GG
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ritiksoni00&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br><br>
