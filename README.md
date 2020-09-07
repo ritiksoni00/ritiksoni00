@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ML small projects!!
 - 🤔 I’m looking for guidance for Data structure & Algorithm And Machine learning
 - 💬 I don't have anything to tell you! Till now nothing Achived(simple word)
-- ⚡ Fun fact: <b>i'll make thing that will change Everything! GG
+- ⚡ Fun fact: <b>i'll make one-thing that will change Everything! GG
 
 Let's talk on :--<a href="https://twitter.com/theunkownfacto1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theunkownfacto1" height="30" width="30" /></a> or
    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritik-soni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ritik-soni/" height="30" width="30" /></a>
