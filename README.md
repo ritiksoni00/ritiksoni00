@@ -11,7 +11,7 @@
    #
    
    
-## Let's talk on :- <a href="https://twitter.com/theunkownfacto1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theunkownfacto1" height="30" width="30" /></a> or <a href="https://www.linkedin.com/in/ritik-soni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ritik-soni/" height="30" width="30" /></a>
+Let's talk on :- <a href="https://twitter.com/theunkownfacto1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theunkownfacto1" height="30" width="30" /></a> or <a href="https://www.linkedin.com/in/ritik-soni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ritik-soni/" height="30" width="30" /></a>
 
 
 
