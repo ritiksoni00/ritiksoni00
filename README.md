@@ -1,9 +1,7 @@
 ### Hey, Thanks To be here.. Hope You will find something helpful in my Repos
 
 - 🔭 🌱 I’m currently grinding my Web Dev And machine learning Skill as A Beginner 
-- 👯 I’m looking to collaborate on ML small projects!!
 - 🤔 I’m looking for guidance in Everything
-- 💬 I don't have anything to tell you! Till now nothing Achived(simple word)
 - ⚡ Fun fact: <b>we together, can make one-thing that will change Everything! GG
    
 #
