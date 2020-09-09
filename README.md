@@ -9,8 +9,8 @@
    #
    
    
-Let's talk on :- <a href="https://twitter.com/theunkownfacto1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theunkownfacto1" height="30" width="30" /></a> or <a href="https://www.linkedin.com/in/ritik-soni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ritik-soni/" height="30" width="30" /></a>
-
+Let's talk <a href="https://www.linkedin.com/in/ritik-soni" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=sky-blue" /></a>
+<a href="https//twitter.com/Theunkownfacto1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=black" /></a>
 
 
 
