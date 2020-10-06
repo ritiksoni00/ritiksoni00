@@ -2,7 +2,7 @@
 
 - 🔭 🌱 I’m currently grinding my Web Dev And machine learning Skill as A Beginner 
 - 🤔 I’m looking for guidance in Everything
-- ⚡ Fun fact: <b>Untouchability still exits in india
+- ⚡ Fun fact: <b>Untouchability still exits in india or evrywhere in the world but in the differents way!
    
 #
    Check All tech programs <a href="https://dare2compete.com/e/hackathons/all">Here</a>
