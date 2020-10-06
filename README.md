@@ -2,7 +2,7 @@
 
 - 🔭 🌱 I’m currently grinding my Web Dev And machine learning Skill as A Beginner 
 - 🤔 I’m looking for guidance in Everything
-- ⚡ Fun fact: <b>we together, can make one-thing that will change Everything! GG
+- ⚡ Fun fact: <b>Untouchable still exits in india
    
 #
    Check All tech programs <a href="https://dare2compete.com/e/hackathons/all">Here</a>
