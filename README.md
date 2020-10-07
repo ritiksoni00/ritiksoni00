@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/ritik-soni" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=sky-blue" /></a> <a href="https://twitter.com/Theunkownfacto1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=black" /></a>
 </div>
 
+##
 
 ![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)
 
