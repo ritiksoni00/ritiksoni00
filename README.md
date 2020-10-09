@@ -30,7 +30,7 @@
    
    
   <kbd align="right">
-      <img  src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" hight="600px" width="300px"/>
+      <img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" hight="600px" width="300px"/>
   </kbd>
   
 
