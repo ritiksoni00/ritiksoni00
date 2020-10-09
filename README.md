@@ -8,7 +8,7 @@
 
 :-  <span>Just want to share with y'all<span>
 
- 1.  All <a href="https://opensourceinternships.herokuapp.com/">Open-Sorce</a> programs that will surely help you 
+ 1.  All <a href="https://opensourceinternships.herokuapp.com/">Open-Source</a> programs that will surely help you 
  
  2.  Check All tech programs <a href="https://dare2compete.com/e/hackathons/all">Here</a>
    
