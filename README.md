@@ -12,7 +12,6 @@
  
  2.  Check All tech programs <a href="https://dare2compete.com/e/hackathons/all">Here</a>
    
- 3.  Want to learn about Readme markdown :- click<a href="https://guides.github.com/features/mastering-markdown/"> Here</a> to read 
  #
    
 <div align="center">
