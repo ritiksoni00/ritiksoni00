@@ -28,7 +28,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/ritiksoni00/count.svg)
 
 
-
+<div align="center">
+   
 Me on Digital platforms:-
 <p>
 <a href="https://dev.to/ritiksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ritiksoni00" height="30" width="30" /></a>
