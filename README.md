@@ -24,16 +24,9 @@
 ![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)
 
 ![Visitor Count](https://profile-counter.glitch.me/ritiksoni00/count.svg)
-<div>
-   
 
-   
-   
-  <kbd align="right">
-      <img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" hight="600px" width="300px"/>
-  </kbd>
-  
 
+<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" hight="600px" width="300px"/>
 Me on Digital platforms:-
 <p>
 <a href="https://dev.to/ritiksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ritiksoni00" height="30" width="30" /></a>
@@ -44,7 +37,7 @@ Me on Digital platforms:-
 <a href="https://www.hackerearth.com/rtksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="rtksoni00" height="30" width="30" /></a>
 <a href="https://www.geeksforgeeks.com/ritiksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ritiksoni00" height="30" width="30" /></a>
 </p>
-</div>
+
     
 
 <div>
