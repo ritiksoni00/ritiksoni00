@@ -21,12 +21,14 @@
 
 ##
 
-![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)
+![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical) <img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="327"/>
+
+
 
 ![Visitor Count](https://profile-counter.glitch.me/ritiksoni00/count.svg)
 
 
-<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" hight="600px" width="300px"/>
+
 Me on Digital platforms:-
 <p>
 <a href="https://dev.to/ritiksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ritiksoni00" height="30" width="30" /></a>
