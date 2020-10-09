@@ -51,5 +51,5 @@ Some of my Knowledge which i know is :-
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-[100 days of Programming Challenge](https://medium.com/@rtksoni00/100-days-of-programming-challenge-29d96ce2c8b3?source=rss-c501e1321f0d------2)
+- [100 days of Programming Challenge](https://medium.com/@rtksoni00/100-days-of-programming-challenge-29d96ce2c8b3?source=rss-c501e1321f0d------2)
 <!-- BLOG-POST-LIST:END -->
