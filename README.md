@@ -25,10 +25,12 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/ritiksoni00/count.svg)
-
 
 <div align="center">
+   
+  
+![Visitor Count](https://profile-counter.glitch.me/ritiksoni00/count.svg)
+  
    
 Me on Digital platforms:-
 <p>
@@ -43,16 +45,15 @@ Me on Digital platforms:-
 
     
 
-<div>
 Some of my Knowledge which i know is :-
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
    
    
    
-</div>
+
 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [100 days of Programming Challenge](https://medium.com/@rtksoni00/100-days-of-programming-challenge-29d96ce2c8b3?source=rss-c501e1321f0d------2)
+[100 days of Programming Challenge](https://medium.com/@rtksoni00/100-days-of-programming-challenge-29d96ce2c8b3?source=rss-c501e1321f0d------2)
 <!-- BLOG-POST-LIST:END -->
