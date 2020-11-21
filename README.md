@@ -47,10 +47,8 @@ Me on Digital platforms:-
 Some of my Knowledge which i know is :-
 <p ><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
    
-   [![Harshal Ritik](https://mediumblog-cards.vercel.app/getMediumBlogs?username=ritiksoni00)](https://medium.com/@ritiksoni00)
-
 # Blog posts on Medium & DEV.to
 <!-- BLOG-POST-LIST:START -->
-- [apt update-fix not found packages! or guide to update successfully your Ubuntu](https://dev.to/ritiksoni00/apt-update-fix-not-found-packages-or-guide-to-update-successfully-your-ubuntu-mfk)
+- [ guide to update successfully your Ubuntu](https://dev.to/ritiksoni00/apt-update-fix-not-found-packages-or-guide-to-update-successfully-your-ubuntu-mfk)
 - [Twitter_bot Guidance for Beginners](https://dev.to/ritiksoni00/twitterbot-guidance-for-beginners-jdl)
 <!-- BLOG-POST-LIST:END -->
