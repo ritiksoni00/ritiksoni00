@@ -2,7 +2,7 @@
 
 - 🔭 🌱 I’m currently grinding my Web Dev And machine learning Skill as A Beginner 
 - 🤔 I’m looking for guidance in Everything
-- ⚡ fact: <b>Untouchability still exits in india or evrywhere in the world but in the differents way!
+- ⚡ fact: <b>Open-Source teach us how can we help each other!
    
 #
 
