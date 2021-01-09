@@ -5,7 +5,6 @@
 - ⚡ fact: <b>Open-Source teach us how can we help each other!
 
       
-      ![395350119257735178](https://user-images.githubusercontent.com/47344024/104086623-858f0900-527f-11eb-9cf9-d1de36618a01.gif) 
 
 #
 
@@ -30,7 +29,9 @@
 
 
 <div align="center">
-   
+ 
+ ![395350119257735178](https://user-images.githubusercontent.com/47344024/104086623-858f0900-527f-11eb-9cf9-d1de36618a01.gif) 
+
   
 ![Visitor Count](https://profile-counter.glitch.me/ritiksoni00/count.svg)
   
