@@ -3,7 +3,10 @@
 - 🔭 🌱 I’m currently grinding my Web Dev And machine learning Skill as A Beginner 
 - 🤔 I’m looking for guidance in Everything
 - ⚡ fact: <b>Open-Source teach us how can we help each other!
-   
+
+      
+      ![395350119257735178](https://user-images.githubusercontent.com/47344024/104086623-858f0900-527f-11eb-9cf9-d1de36618a01.gif) 
+
 #
 
 :-  <span>Just want to share with y'all<span>
@@ -43,10 +46,6 @@ Me on Digital platforms:-
 <a href="https://www.geeksforgeeks.com/ritiksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ritiksoni00" height="30" width="30" /></a>
 </p>
    
-   
-Some of my Knowledge which i know is :-
-<p ><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
-</div>
 
 
 # Blog posts on Medium & DEV.to
