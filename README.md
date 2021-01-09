@@ -19,7 +19,7 @@
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/47344024/104087409-61362b00-5285-11eb-9869-4dac14d09ea4.gif" /><img align="right" src="https://user-images.githubusercontent.com/47344024/104087820-942dee00-5288-11eb-9864-59a0215c30eb.gif" />
 <h4 align='center'>Let's talk<img align='center' src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4>
-<a align='center' href="https://www.linkedin.com/in/ritik-soni" target="_blank"><img align='center' alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=sky-blue" /></a><a align='center' href="https://twitter.com/Theunkownfacto1" target="_blank"><img align='center' alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=black" /></a>
+<a align='center' href="https://www.linkedin.com/in/ritik-soni" target="_blank"><img align='center' alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=sky-blue" /></a><a align='center' href="https://twitter.com/arre_ritik" target="_blank"><img align='center' alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=black" /></a>
 </div>
 
 &nbsp;
