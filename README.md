@@ -30,8 +30,6 @@
 
 <div align="center">
  
- ![395350119257735178](https://user-images.githubusercontent.com/47344024/104086623-858f0900-527f-11eb-9cf9-d1de36618a01.gif) 
-
   
 ![Visitor Count](https://profile-counter.glitch.me/ritiksoni00/count.svg)
   
@@ -47,6 +45,9 @@ Me on Digital platforms:-
 <a href="https://www.geeksforgeeks.com/ritiksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ritiksoni00" height="30" width="30" /></a>
 </p>
    
+<div align="left">
+      
+  ![395350119257735178](https://user-images.githubusercontent.com/47344024/104086623-858f0900-527f-11eb-9cf9-d1de36618a01.gif) 
 
 
 # Blog posts on Medium & DEV.to
