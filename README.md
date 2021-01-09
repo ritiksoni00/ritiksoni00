@@ -15,23 +15,17 @@
  2.  Check All tech programs <a href="https://dare2compete.com/e/hackathons/all">Here</a>
    
  #
+ 
 <div><img align="left" src="https://user-images.githubusercontent.com/47344024/104087409-61362b00-5285-11eb-9869-4dac14d09ea4.gif"><h4 align='right'>Let's talk<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4><a href="https://www.linkedin.com/in/ritik-soni" target="_blank"><img align="right" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=sky-blue" /></a><a href="https://twitter.com/Theunkownfacto1" target="_blank"><img align="right" alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=black" /></a>
-
 </div>
 
 
 
 
 
-<br>
+.
 
-
-
-
-
-
-##
-
+#
 
 ![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="327"/>
 
