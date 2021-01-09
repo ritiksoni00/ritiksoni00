@@ -45,13 +45,14 @@ Me on Digital platforms:-
 <a href="https://www.geeksforgeeks.com/ritiksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ritiksoni00" height="30" width="30" /></a>
 </p>
    
-<div align="left">
-      
-  ![395350119257735178](https://user-images.githubusercontent.com/47344024/104086623-858f0900-527f-11eb-9cf9-d1de36618a01.gif) 
 
 
 # Blog posts on Medium & DEV.to
 <!-- BLOG-POST-LIST:START -->
+<div align="left">
+      
+  ![395350119257735178](https://user-images.githubusercontent.com/47344024/104086623-858f0900-527f-11eb-9cf9-d1de36618a01.gif) 
+
 - [Set Up Vim For Cpp](https://dev.to/ritiksoni00/set-up-vim-for-cpp-pj)
 - [apt update-fix not found packages! or guide to update successfully your Ubuntu](https://dev.to/ritiksoni00/apt-update-fix-not-found-packages-or-guide-to-update-successfully-your-ubuntu-mfk)
 - [Twitter_bot Guidance for Beginners](https://dev.to/ritiksoni00/twitterbot-guidance-for-beginners-jdl)
