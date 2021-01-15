@@ -19,21 +19,8 @@
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/47344024/104087409-61362b00-5285-11eb-9869-4dac14d09ea4.gif" /><img align="right" src="https://user-images.githubusercontent.com/47344024/104087820-942dee00-5288-11eb-9864-59a0215c30eb.gif" />
 <h4 align='center'>Let's talk<img align='center' src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /><br/>
-<a align='center' href="https://www.linkedin.com/in/ritik-soni" target="_blank"><img align='center' alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=sky-blue" /></a><a align='center' href="https://twitter.com/Theunkownfacto1" target="_blank"><img align='center' alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=black" /></a></h4>
-</div>
-
-&nbsp;
-
-&nbsp;
-
-#
-![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="327"/>
-
-<div align="center">
- 
-  
-![Visitor Count](https://profile-counter.glitch.me/ritiksoni00/count.svg)
-  
+<a align='center' href="https://www.linkedin.com/in/ritik-soni" target="_blank"><img align='center' alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=sky-blue" /></a><a align='center' href="https://twitter.com/Theunkownfacto1" target="_blank"><img align='center' alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=black" /></a>
+<div align="center">  
    
 Me on Digital platforms:-
 <p>
@@ -46,6 +33,15 @@ Me on Digital platforms:-
 <a href="https://www.geeksforgeeks.com/ritiksoni00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ritiksoni00" height="30" width="30" /></a>
 </p>
    
+</h4>
+</div>
+
+&nbsp;
+
+&nbsp;
+
+#
+![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="327"/>
 
 
 <div align="left">
