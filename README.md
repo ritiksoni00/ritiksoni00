@@ -4,10 +4,14 @@
 - 🤔 I’m looking for guidance in Everything
 - ⚡ fact: <b>Open-Source teach us how can we help each other!
 
-      
+#
+
+
 
 
 <!--START_SECTION:waka-->
+
+
 
 <!--END_SECTION:waka-->
 
