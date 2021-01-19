@@ -7,13 +7,10 @@
       
 
 #
+<!--START_SECTION:waka-->
 
-:-  <span>Just want to share with y'all<span> <img align="right" src="https://user-images.githubusercontent.com/47344024/104087021-aa38b000-5282-11eb-8dfa-13abdf857f69.gif">
+<!--END_SECTION:waka-->
 
- 1.  All <a href="https://opensourceinternships.herokuapp.com/">Open-Source</a> programs that will surely help you 
- 
- 2.  Check All tech programs <a href="https://dare2compete.com/e/hackathons/all">Here</a>
-   
  #
  
 <div>
