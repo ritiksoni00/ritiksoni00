@@ -51,7 +51,6 @@ Me on Digital platforms:-
 - [Set Up Vim For Cpp](https://dev.to/ritiksoni00/set-up-vim-for-cpp-pj)
 - [apt update-fix not found packages! or guide to update successfully your Ubuntu](https://dev.to/ritiksoni00/apt-update-fix-not-found-packages-or-guide-to-update-successfully-your-ubuntu-mfk)
 - [Twitter_bot Guidance for Beginners](https://dev.to/ritiksoni00/twitterbot-guidance-for-beginners-jdl)
-- [100 days of Programming Challenge](https://medium.com/@rtksoni00/100-days-of-programming-challenge-29d96ce2c8b3?source=rss-c501e1321f0d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
