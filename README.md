@@ -4,6 +4,8 @@
 - 🤔 I’m looking for guidance in Everything
 - ⚡ fact: <b>Open-Source teach us how can we help each other!
 
+-  24*7 virtual HOME:= <a href="https://discord.gg/SQvDE6HjaW"> Discord</a> 
+
 #
 
 
