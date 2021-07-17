@@ -1,18 +1,13 @@
-### Hey, Thanks To be here.. Hope You will find something helpful in my Repos
+### Hey!,
 
-- 🔭 🌱 I’m currently grinding my Web Dev And machine learning Skill as A Beginner 
-- 🤔 I’m looking for guidance in Everything
-- ⚡ fact: <b>Open-Source teach us how can we help each other!
+- 🔭 🌱 I’m currently grinding my Web Dev skills main focus on the backend dev, using Django framework! some how i able to start making projects in my 3rd year of my bachelor's degree.
+
 
 -  24*7 virtual HOME :- <a href="https://discord.gg/SQvDE6HjaW"> Discord</a> 
 
 #
 
 
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
  
  
