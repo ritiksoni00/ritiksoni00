@@ -51,11 +51,15 @@ Me on Digital platforms:-
 </div>
  
  
-#
  
  
-![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)
-<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="327"/>
+ 
+# 
+
+
+ 
+ 
+[![Ritik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NooB)](https://github.com/anuraghazra/github-readme-stats)<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="327"/>
 #
 
 
