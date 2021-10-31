@@ -60,7 +60,7 @@ Me on Digital platforms:-
 <div> 
  
 ![Ritik](https://github-readme-stats.vercel.app/api/wakatime?username=NooB)
-<img markdown-body="padding-left=0px;" align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="310"/>
+<img style="markdown-body=padding-left=0px;" align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="310"/>
 #
 </div>
 
