@@ -1,6 +1,6 @@
 ### Hey!,
 
-- 🔭 🌱 I’m currently grinding my Web Dev skills main focus on the backend dev, using Django framework! some how i able to start making projects in my 3rd year of my bachelor's degree.
+- 🔭 🌱 I’m currently grinding my Web Dev skills main focus on the backend dev! some how i able to start making projects in my 3rd year of my bachelor's degree.
 
 
 -  24*7 virtual HOME :- <a href="https://discord.gg/SQvDE6HjaW"> Discord</a> 
@@ -33,8 +33,9 @@ Me on Digital platforms:-
 </div>
 
 #
-![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="327"/>
-
+![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritiksoni00&show_icons=true&theme=radical)
+<img align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="327"/>
+#
 
 <div align="left">
    
