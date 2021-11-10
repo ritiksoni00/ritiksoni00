@@ -1,6 +1,4 @@
-### Hey!,
-
-- 🔭 🌱 I’m currently grinding my Web Dev skills main focus on the backend dev! some how i able to start making projects in my 3rd year of my bachelor's degree.              
+- 🔭 🌱some how i able to start making projects in my 3rd year of my bachelor's degree.              
 
 
 -  24*7 virtual HOME :- <a href="https://discord.gg/SQvDE6HjaW"> Discord</a> 
