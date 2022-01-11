@@ -53,7 +53,7 @@ Me on Digital platforms:-
  
  
  
-# .
+# . [![wakatime](https://wakatime.com/badge/user/6110f2c5-14e7-4c0a-a390-0446f5070029.svg)](https://wakatime.com/@6110f2c5-14e7-4c0a-a390-0446f5070029)
 
 <div> 
  
