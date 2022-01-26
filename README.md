@@ -48,15 +48,15 @@ Me on Digital platforms:-
 - [apt update-fix not found packages! or guide to update successfully your Ubuntu](https://dev.to/ritiksoni00/apt-update-fix-not-found-packages-or-guide-to-update-successfully-your-ubuntu-mfk)
 - [Twitter_bot Guidance for Beginners](https://dev.to/ritiksoni00/twitterbot-guidance-for-beginners-jdl)
 <!-- BLOG-POST-LIST:END -->
-
-
+ 
 </div>
  
  
+# .[![wakatime](https://wakatime.com/badge/user/6110f2c5-14e7-4c0a-a390-0446f5070029.svg)](https://wakatime.com/@6110f2c5-14e7-4c0a-a390-0446f5070029)  
+ <div align="left">
  
- 
- 
-# . [![wakatime](https://wakatime.com/badge/user/6110f2c5-14e7-4c0a-a390-0446f5070029.svg)](https://wakatime.com/@6110f2c5-14e7-4c0a-a390-0446f5070029)
+| currently hireable [resume](https://drive.google.com/file/d/1qgziDrq6YjObI9wM5ZXr5hl8afQWh_Nb/view?usp=sharing) 
+  </div>
 
 <div> 
  
