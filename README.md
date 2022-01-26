@@ -1,10 +1,13 @@
-- 🔭 🌱some how i able to start making projects in my 3rd year of my bachelor's degree.              
 
+I love to engineer stuff regardless fields{any stream}.
+
+Most of my stuff is in the Django web framework for building web applications. currently, I'm digitalizing a business EST:- 1996 based in Austria. 
+
+with time my interest is increasing exponentially in the decentralization of everything.
+
+- 🔭 🌱some how i able to start making projects in my 3rd year of my bachelor's degree.
 
 -  24*7 virtual HOME :- <a href="https://discord.gg/SQvDE6HjaW"> Discord</a> 
-
-#
-
 
 
  
