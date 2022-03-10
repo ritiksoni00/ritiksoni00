@@ -1,12 +1,8 @@
 
 I love to engineer stuff regardless fields{any stream}.
-
 Most of my stuff is in the Django web framework for building web applications. currently, I'm digitalizing a business EST:- 1996 based in Austria. 
 
 with time my interest is increasing exponentially in the decentralization of everything.
-
-- 🔭 🌱some how i able to start making projects in my 3rd year of my bachelor's degree.
-
 -  24*7 virtual HOME :- <a href="https://discord.gg/SQvDE6HjaW"> Discord</a> 
 
 
@@ -39,7 +35,6 @@ Me on Digital platforms:-
     
 # Blog posts on Medium & DEV.to
 
-<img align="right" src="https://user-images.githubusercontent.com/47344024/104086623-858f0900-527f-11eb-9cf9-d1de36618a01.gif">
 
 <!-- BLOG-POST-LIST:START -->
 - [Gitlab Upstream url[FIXED]](https://dev.to/ritiksoni00/gitlab-upstream-urlfixed-2hkg)
@@ -52,16 +47,16 @@ Me on Digital platforms:-
 </div>
  
  
-# .[![wakatime](https://wakatime.com/badge/user/6110f2c5-14e7-4c0a-a390-0446f5070029.svg)](https://wakatime.com/@6110f2c5-14e7-4c0a-a390-0446f5070029)  
  <div align="left">
+  
+  
  
 | currently hireable [resume](https://drive.google.com/file/d/1qgziDrq6YjObI9wM5ZXr5hl8afQWh_Nb/view?usp=sharing) 
   </div>
 
 <div> 
  
-![Ritik](https://github-readme-stats.vercel.app/api/wakatime?username=NooB)<img style="markdown-body=padding-left=0px;" align="right" src="https://github.com/ritiksoni00/ritiksoni00/blob/master/%3E/ezgif.com-gif-maker.gif" width="300" hight="150"/>
-#
+
 </div>
 
       
