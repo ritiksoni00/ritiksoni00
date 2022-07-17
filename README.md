@@ -51,7 +51,7 @@ Me on Digital platforms:-
   
   
  
-| currently hireable [resume](https://drive.google.com/file/d/1qgziDrq6YjObI9wM5ZXr5hl8afQWh_Nb/view?usp=sharing) 
+| currently hireable [resume](https://drive.google.com/file/d/1QCwMFcxLcRjm8VoUIFDFtr-uNBtONGIi/view?usp=drivesdk) 
   </div>
 
 <div> 
