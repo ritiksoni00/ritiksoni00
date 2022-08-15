@@ -19,11 +19,11 @@ with time my interest is increasing exponentially in the decentralization of eve
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn About Django `StaticFiles`.](https://dev.to/ritiksoni00/learn-about-django-staticfiles-16pb)
 - [Gitlab Upstream url[FIXED]](https://dev.to/ritiksoni00/gitlab-upstream-urlfixed-2hkg)
 - [mistakenly run git reset --hard HEAD~1.  [SOLVED]](https://dev.to/ritiksoni00/mistakenly-run-git-reset-hard-head-1-solved-21i)
 - [Set Up Vim For Cpp](https://dev.to/ritiksoni00/set-up-vim-for-cpp-pj)
 - [apt update-fix not found packages! or guide to update successfully your Ubuntu](https://dev.to/ritiksoni00/apt-update-fix-not-found-packages-or-guide-to-update-successfully-your-ubuntu-mfk)
-- [Twitter_bot Guidance for Beginners](https://dev.to/ritiksoni00/twitterbot-guidance-for-beginners-jdl)
 <!-- BLOG-POST-LIST:END -->
  
 </div>
