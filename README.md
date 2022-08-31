@@ -33,7 +33,7 @@ with time my interest is increasing exponentially in the decentralization of eve
   
   
  
-| currently hireable [resume](https://drive.google.com/file/d/1QCwMFcxLcRjm8VoUIFDFtr-uNBtONGIi/view?usp=drivesdk) 
+| currently hireable [resume](https://drive.google.com/file/d/1XOzYY4nXpyW6AZq2y6VJukc3dvP8dI8B/view?usp=sharing) 
   </div>
 
 <div> 
