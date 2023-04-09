@@ -3,7 +3,6 @@ I love to engineer stuff regardless fields{any stream}.
 Most of my stuff is in the Django web framework for building web applications.
 
 with time my interest is increasing exponentially in the decentralization of everything.
--  24*7 virtual HOME :- <a href="https://discord.gg/SQvDE6HjaW"> Discord</a> 
 
 
  
