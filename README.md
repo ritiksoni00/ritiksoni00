@@ -18,7 +18,11 @@ with time my interest is increasing exponentially in the decentralization of eve
 
 
 <!-- BLOG-POST-LIST:START -->
-- [100 days of Programming Challenge](https://medium.com/@rtksoni00/100-days-of-programming-challenge-29d96ce2c8b3?source=rss-c501e1321f0d------2)
+- [How to Handle Static Files in Production server of Django.](https://dev.to/ritiksoni00/how-to-handle-static-files-in-production-server-of-django-5bgb)
+- [Learn About Django `StaticFiles`.](https://dev.to/ritiksoni00/learn-about-django-staticfiles-16pb)
+- [Gitlab Upstream url[FIXED]](https://dev.to/ritiksoni00/gitlab-upstream-urlfixed-2hkg)
+- [mistakenly run git reset --hard HEAD~1.  [SOLVED]](https://dev.to/ritiksoni00/mistakenly-run-git-reset-hard-head-1-solved-21i)
+- [Set Up Vim For Cpp](https://dev.to/ritiksoni00/set-up-vim-for-cpp-pj)
 <!-- BLOG-POST-LIST:END -->
  
 </div>
